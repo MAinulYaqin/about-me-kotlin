@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name_text">Ainul Yaqin</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is ainul
+        \n\nis it right ?
+        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+        Google\'s Kotlin tutorial
+    </string>
+    <string name="nickname">what is your nickname ?</string>
+    <string name="done">Done</string>
+</resources>
